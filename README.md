@@ -7,6 +7,7 @@
   - [4 Digit 7 Segment Pin Connection](#4-digit-7-segment-pin-connection)
 - [Dependencies](#dependencies)
 - [Installation](#installation)
+  - [License](#license)
 
 ![Demo of working digital clock showing current time 22:48][demo]
 
@@ -60,3 +61,6 @@ E |     | C
 
 
 [demo]: images/demo.jpg "Demo of working digital clock showing current time 22:48"
+
+## License
+Licensed under the [MIT License](LICENSE)
