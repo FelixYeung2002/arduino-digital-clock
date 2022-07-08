@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "johnny-five": "^2.0.0",
-    "moment": "^2.27.0"
+    "moment": "^2.29.4"
   }
 }
